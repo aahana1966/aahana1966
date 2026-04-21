@@ -1,4 +1,4 @@
-<h1 align="center">Aahana Sri</h1>
+<h1 align="center">JP Sri Aahana</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4B8BBE&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Software+Engineering+Candidate;Open+to+Internships" />
